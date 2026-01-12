@@ -93,4 +93,16 @@ The code is organized into data and code segments with clear procedures for each
     * **Helper Procedures**: Includes functions for `PRINT` (displaying strings), `CLEAR_SCREEN`, and `READ_KEYBOARD` (getting user input).
 
 ---
+
 *This project serves as a great example of game development and system-level programming using Assembly language.*
+
+---
+
+## 👤 Author
+
+**[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
+Co-Founder – Unicodrex | Technical Associate – Skill Sprint
+
+[![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
+
+
